@@ -1,9 +1,5 @@
 ## 📖 เอกสารประกอบการสอน (.pdf)
 - [เขียนโปรแกรมเชิงวัตถุ Python](https://github.com/kongruksiamza/ebook-for-education)
-
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การเขียนโปรแกรมภาษา Python (Python Guideline) [อ่านบทความ](https://github.com/kongruksiamza/python-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
   
 ## 🎓 คอร์สเรียนที่น่าสนใจ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 - [สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)](https://www.udemy.com/course/python-real-world-projects/?referralCode=4D6784B6C4CF2CBB1892)
